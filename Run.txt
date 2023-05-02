@@ -4,4 +4,8 @@ git is working
 
 
 git
+<<<<<<< HEAD
 java 
+=======
+jenkins
+>>>>>>> 8d013dcc1bd15d9feedb77c28d331b6a64298ce4
